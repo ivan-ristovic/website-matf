@@ -13,7 +13,10 @@ layout: default
 
 <div class="well">
     <h1>About me</h1>
-    {% include about.md %}
+    <div markdown="1">
+        {% capture include_about %}{% include about.md %}{% endcapture %}
+        {{ include_about | markdownify }}
+    </div>
 </div>
 
 <div class="well">
