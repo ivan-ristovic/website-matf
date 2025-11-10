@@ -1,2 +1,3 @@
-# ivan-ristovic.github.io
-My personal [faculty webpage](https://matf.ristovic.net).
+# [matf.ristovic.net](https://matf.ristovic.net)
+
+My personal webpage for the courses at the Faculty of Mathematics.
