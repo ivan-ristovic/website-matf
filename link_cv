@@ -1,0 +1,5 @@
+#!/bin/bash -xe
+
+# link bio for front page
+cp ./cv/bio/1st_short_en.md ./_includes/about.md
+
