@@ -45,4 +45,4 @@ highlighter: rouge
 markdown: kramdown
 plugins: ['jekyll-paginate']
 
-exclude: ['README.md', 'LICENSE']
+exclude: ['README.md', 'LICENSE', 'link_cv']
